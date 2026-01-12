@@ -25,5 +25,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/TintageHQ/tintage-python"
+Homepage = "https://tintage.com"
 Repository = "https://github.com/TintageHQ/tintage-python"
