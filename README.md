@@ -4,6 +4,9 @@ Tintage library for Python - Image and video rendering platform SDK.
 
 **⚠️ Warning: This package is not ready for production use. It is currently under active development.**
 
+- **Website:** https://tintage.com
+- **Documentation:** https://tintage.com/docs
+
 ## Installation
 
 ```bash
