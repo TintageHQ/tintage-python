@@ -1,4 +1,4 @@
-# Tintage
+# Tintage Python SDK
 
 Tintage SDK for Python - Image and video rendering platform SDK.
 
